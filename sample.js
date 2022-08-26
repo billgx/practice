@@ -50,12 +50,23 @@ const weatherInfo = {
 
 // So let's try to use our function and our object in some code.
 
+
+
+// How about doing a weather report using our weather object?
+
+console.log ("Today's weather forecast:");
+console.log ("Winds between " + weatherInfo.windLow + " and " + weatherInfo.windHi + " miles per hour");
+console.log ("Today's high will be " + weatherInfo.tempHi);
+console.log ("and the overnight low will be " + weatherInfo.tempLow);
+console.log ("The barometer is " + weatherInfo.barometer);
+console.log ("We have a " + weatherInfo.precipitationChance + " percent chance for rain.")
+
 // I'm going to check the precipitaton chance. If it is below 50%, I'm going to
 //use the isItRaining function to tell us it's not raining.
 
 if (weatherInfo.precipitationChance <= 0.50) {
     console.log (isItRaining(false));
+    console.log ("The sky is " + color);
 } else {
     console.log (isItRaining(true));
 }
-
