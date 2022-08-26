@@ -1,0 +1,61 @@
+/* Simple Sample JavaScript
+*    by Bill Genereux 
+*   August 26, 2022
+*/
+
+// Let's review some concepts
+// first, a variable of type int
+
+let n = 4;
+
+// We use 'let' keyword to denote it can be a variable that changes.
+// Older versions of JavaScript used 'var' but that's out of date, evidently.
+
+// If it is a value that won't ever change, it is a 'constant' and you use
+
+const color = "blue";  // constants can be useful sometimes as well
+
+// Don't forget that the '=' sign is used for assignment, not equivalence checking.
+// In JavaScript we use '==' and '==='. There's a difference but I can't explain it now.
+
+// Last time we talked about creating a function about weather.
+
+function isItRaining (rainBool) { // isItRaining is a boolean variable
+    if(rainBool) {
+        return "It is raining outside.";
+    } else {
+        return "It is not raining outside.";
+    }
+
+}
+
+// but we ran out of time before we could implement our function.
+
+// We also talked about using JavaScript objects
+// I got the sense from our discussion that objects were not emphasized heavily
+// or maybe we've just forgotten? In any case, here's a weatherInfo object.
+
+const weatherInfo = {
+    tempHi : 94,
+    tempLow : 67,
+    windHi : 25,
+    windLow : 10,
+    humidity : 40,
+    barometer : "dropping",
+    precipitationChance: 0.20
+}
+
+// Javascript objects are normally saved as constants, not variables.
+// They are kind of like variables, but with several name/value pairs inside.
+
+// So let's try to use our function and our object in some code.
+
+// I'm going to check the precipitaton chance. If it is below 50%, I'm going to
+//use the isItRaining function to tell us it's not raining.
+
+if (weatherInfo.precipitationChance <= 0.50) {
+    console.log (isItRaining(false));
+} else {
+    console.log (isItRaining(true));
+}
+
