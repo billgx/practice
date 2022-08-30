@@ -60,16 +60,17 @@ const sheep = {
 }
 
 // Ryan
+const crow = {
+	animalName: "crow",
+	animalSound: "caw!"
+}
 
 // Joe
 
 // Aidan
 
 // Joya
-const cat = {
-	animalName: "cat",
-	animalSound: "meow!"
-}
+
 // Tori
 
 // Austin
