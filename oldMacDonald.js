@@ -54,6 +54,10 @@ const wolf = {
 // Dylan
 
 // Bret
+const sheep = {
+	animalName: "sheep",
+	animalSound: "baa!"
+}
 
 // Ryan
 
