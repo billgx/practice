@@ -79,6 +79,10 @@ const cat = {
 // Austin
 
 // JC Gibbs
+ const dog = {
+	 animalName: "dog",
+	 animalSound: "woof!"
+ }
 
 // Caleb Glen
 
