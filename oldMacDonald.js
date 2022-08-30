@@ -46,6 +46,10 @@ const duck = {
     }
 
 // Katie
+const pig = {
+    animalName: "pig",
+    animalSound: "oink!"
+}
 
 // Eli
 
@@ -54,6 +58,10 @@ const duck = {
 // Dylan
 
 // Bret
+const sheep = {
+	animalName: "sheep",
+	animalSound: "baa!"
+}
 
 // Ryan
 
@@ -62,7 +70,10 @@ const duck = {
 // Aidan
 
 // Joya
-
+const cat = {
+	animalName: "cat",
+	animalSound: "meow!"
+}
 // Tori
 
 // Austin
