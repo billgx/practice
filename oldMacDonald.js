@@ -50,6 +50,10 @@ const duck = {
 // Dylan
 
 // Bret
+const sheep = {
+	animalName: "sheep",
+	animalSound: "baa!"
+}
 
 // Ryan
 
