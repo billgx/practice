@@ -42,6 +42,10 @@ const duck = {
 // Trevor
 
 // Katie
+const pig = {
+    animalName: "pig",
+    animalSound: "oink!"
+}
 
 // Eli
 
