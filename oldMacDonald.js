@@ -66,7 +66,10 @@ const sheep = {
 // Aidan
 
 // Joya
-
+const cat = {
+	animalName: "cat",
+	animalSound: "meow!"
+}
 // Tori
 
 // Austin
