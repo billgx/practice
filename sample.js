@@ -73,3 +73,5 @@ if (weatherInfo.precipitationChance <= 0.50) {
 
 // you can use a command line interface / terminal and node.js to run this sample.js file
 // at the command line type: node sample.js and it should run for you.
+
+console.log("\nDisplaying the weatherInfo object: " , weatherInfo);
