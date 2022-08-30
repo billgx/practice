@@ -40,6 +40,10 @@ const duck = {
 // Garrett
 
 // Trevor
+    const cow = {
+        animalName: "Cow",
+        animalName: "MOO!"
+    }
 
 // Katie
 
