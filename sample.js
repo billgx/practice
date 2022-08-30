@@ -6,7 +6,7 @@
 // Let's review some concepts
 // first, a variable of type int
 
-let n = 4;
+let wL = 10; // we'll use this for the low wind measurement
 
 // We use 'let' keyword to denote it can be a variable that changes.
 // Older versions of JavaScript used 'var' but that's out of date, evidently.
@@ -39,7 +39,7 @@ const weatherInfo = {
     tempHi : 94,
     tempLow : 67,
     windHi : 25,
-    windLow : 10,
+    windLow : wL,
     humidity : 40,
     barometer : "dropping",
     precipitationChance: 0.20
