@@ -21,7 +21,7 @@ class Animal {                                  // classes are normally capitali
 
 }
 
-// Now that we know the structure of our animal objects we will be making, let's use the class to make some animals.
+// Now that we know the structure of our animal objects we will be making, let's use the Animal class to make some animals.
 
 let duck = new Animal ("duck", "quack!");
 let wolf = new Animal ("wolf", "awoooo!");
@@ -30,9 +30,11 @@ let pig = new Animal ("pig", "oink!");
 let sheep = new Animal ("sheep", "baa");
 let cat = new Animal ("cat", "meow!");
 let dog = new Animal ("dog", "woof!");
+let crow = new Animal ("crow", "caw!");
+let tiger = new Animal ("tiger", "roar!");
 
 // put the animals into an array so we can easily loop through each of them.
-const animals = [duck, wolf, cow, pig, sheep, cat, dog]; // create array of the animal objects
+const animals = [duck, wolf, cow, pig, sheep, cat, dog, crow, tiger]; // create array of the animal objects
 
 
 
