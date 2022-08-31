@@ -90,7 +90,10 @@ const crow = {
  }
 
 // Caleb Glen
-
+const fox = {
+    animalName: "Fox",
+    animalSound: "ring ding ding ding"
+}
 // Daisuke
 
 
