@@ -76,7 +76,10 @@ const crow = {
 // Joe
 
 // Aidan
-
+const tiger ={
+	animalName: "tiger",
+	animalSound: "Roar!"
+}
 // Joya
 
 // Tori
