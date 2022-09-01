@@ -84,7 +84,10 @@ const tiger ={
 	animalSound: "Roar!"
 }
 // Joya
-
+const cat = {
+	 animalName: "cat",
+	 animalSound: "meow!"
+ }
 // Tori
 const frog ={
 	animalName: "frog",
