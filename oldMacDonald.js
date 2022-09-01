@@ -110,6 +110,10 @@ const fox = {
     animalSound: "ring ding ding ding"
 }
 // Daisuke
+const horse = {
+	animalName:"horse",
+	animalSound:"neigh!"
+}
 
 
 /*********************************************
