@@ -56,14 +56,17 @@ const pig = {
 }
 
 // Eli
-
+const chicken = {
+    animalName: "chicken",
+    animalSound: "bawk bawk!"
+}
 // Tristan
 
 // Dylan
 const cat = {
 	animalName: "cat",
 	animalSound: "meow!"
-
+}
 // Bret
 const sheep = {
 	animalName: "sheep",
