@@ -83,7 +83,10 @@ const tiger ={
 // Joya
 
 // Tori
-
+const frog ={
+	animalName: "frog",
+	animalSound: "ribbit ribbit"
+}
 // Austin
 
 // JC Gibbs
