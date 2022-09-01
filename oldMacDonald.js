@@ -58,6 +58,10 @@ const pig = {
 // Eli
 
 // Tristan
+const GiantSquid ={
+	animalName: "Giant Squid",
+	animalSound: "Squelch"
+}
 
 // Dylan
 
