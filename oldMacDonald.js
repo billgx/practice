@@ -60,6 +60,9 @@ const pig = {
 // Tristan
 
 // Dylan
+const cat = {
+	animalName: "cat",
+	animalSound: "meow!"
 
 // Bret
 const sheep = {
