@@ -97,6 +97,10 @@ const frog ={
 	animalSound: "ribbit ribbit"
 }
 // Austin
+const peacock = {
+	animalName: "peacock",
+	animalSound: "Caaaawww! Caaaawww!"
+}
 
 // JC Gibbs
  const dog = {
