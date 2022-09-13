@@ -61,6 +61,10 @@ const chicken = {
     animalSound: "bawk bawk!"
 }
 // Tristan
+const GiantSquid ={
+	animalName: "Giant Squid",
+	animalSound: "Squelch"
+}
 
 // Dylan
 const cat = {
