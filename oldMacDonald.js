@@ -84,6 +84,10 @@ const crow = {
 }
 
 // Joe
+const mouse = {
+	animalName: "mouse",
+	animalSound: "squeak!"
+}
 
 // Aidan
 const tiger ={
