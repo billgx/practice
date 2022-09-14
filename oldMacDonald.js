@@ -70,6 +70,7 @@ const GiantSquid ={
 const cat1 = {
 	animalName: "cat",
 	animalSound: "meow!"
+
 }
 // Bret
 const sheep = {
