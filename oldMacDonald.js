@@ -63,9 +63,9 @@ const chicken = {
 // Tristan
 
 // Dylan
-const cat = {
-	animalName: "cat",
-	animalSound: "meow!"
+const wildcat = {
+	animalName: "wildcat",
+	animalSound: "meowrr!"
 }
 // Bret
 const sheep = {
