@@ -67,7 +67,7 @@ const GiantSquid ={
 }
 
 // Dylan
-const cat = {
+const cat1 = {
 	animalName: "cat",
 	animalSound: "meow!"
 }
@@ -128,7 +128,7 @@ const horse = {
 }
 
 
-/*********************************************
+const animals = [duck, wolf, cow, pig, fox, dog, frog, cat, cat1, tiger, crow, sheep, chicken, horse, peacock]
 
 // put the console.log output program below here
 
@@ -137,8 +137,13 @@ const eio = "      E I E I O";
 console.log ("Old MacDonald had a farm");
 console.log (eio + "\n");
 
-for (n = 0; n <= 16; n++) {
-    console.log("Testing 123...");
+function song () {
+animals.forEach(element => {
+    console.log ("Old MacDonald had a farm");
+    console.log (eio + "\n");
+  console.log(element.animalName + " goes " + element.animalSound);
+});
 }
 
-*/
+song();
+
