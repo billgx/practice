@@ -52,7 +52,7 @@ const weatherInfo = {
 
 
 
-// How about doing a weather report using our weather object?
+// Here we print out a weather report using our weather object's data
 
 console.log ("Today's weather forecast:");
 console.log ("Winds between " + weatherInfo.windLow + " and " + weatherInfo.windHi + " miles per hour");
@@ -71,7 +71,7 @@ if (weatherInfo.precipitationChance <= 0.50) {
     console.log (isItRaining(true));
 }
 
-// you can use a command line interface / terminal and node.js to run this sample.js file
+// you can use a command line interface / terminal and node.js to run this weatherExample.js file
 // at the command line type: node sample.js and it should run for you.
 
 console.log("\nDisplaying the weatherInfo object: " , weatherInfo);
