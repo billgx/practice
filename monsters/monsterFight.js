@@ -33,7 +33,8 @@ class Dice {
 //create the monsters
 let casper = new Ghost();
 let sabrina = new Witch();
-let d = new Dice();
+let cDice = new Dice();
+let sDice = new Dice();
 
     
 function fightMonsters(m1, m2) {
@@ -41,9 +42,20 @@ function fightMonsters(m1, m2) {
     // passing in two monster objects as parameters
 
     let monster1 = m1;
+    monster1.name = "Sabrina";
     let monster2 = m2;
+    monster2.name = "Casper";
 
-    d.rollDice();
+    let m1Roll = cDice.rollDice();
+    let m2Roll = sDice.rollDice();
+
+    if (m1Roll === m2Roll ) {
+        console.log("it's a tie, roll again.")
+    } else if (m1Roll > m2Roll) {
+        console.log(monster1.name + " wins!"); 
+    } else {
+        console.log(monster2.name + " wins!")
+    }
 
 
 }
