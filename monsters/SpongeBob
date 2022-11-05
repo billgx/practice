@@ -1,0 +1,10 @@
+class SpongeBob {
+  constructor() {
+    this.health = 50;
+    this.attack = 50;
+    this.sound = "Bahahahahahaha";
+    console.log("New SpongeBob Created...")
+    }
+}
+
+let f1 = newSponeBob();
