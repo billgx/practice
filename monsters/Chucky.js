@@ -8,4 +8,6 @@ class HauntedDoll {
   }
 }
 
+
 let w1 = new HauntedDoll();
+
