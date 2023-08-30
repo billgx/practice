@@ -51,7 +51,7 @@ Now you may make whatever changes you desire to the repo. Add files, edit files,
 
 ## Add, Commit, and Push
 
-After you have made the desired changes, us `git add .` to easily stage all files that have been modified in the local repository. Then commit the changes using the following command
+After you have made the desired changes, use `git add .` to easily stage all files that have been modified in the local repository. Then commit the changes using the following command
 
 ```
 git commit -m "New text file added"
