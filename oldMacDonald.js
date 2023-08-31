@@ -10,7 +10,7 @@ Prof. Wm. Genereux
 =======
 Genessis Perez-Sorto
 =======
-Contributors: Annie Aeschliman
+Contributors: Annie Aeschliman, Logan Bunch
 
 
 Prof. Wm. Genereux
@@ -53,7 +53,6 @@ const dog = {
     animalSound: "woof woof"
 }
 
-const animals = [duck, dog]
 
 //Annie
 const sheep = {
@@ -74,7 +73,6 @@ const rabbit = {
     animalSound: "silence"
 }
 
-const animals = [duck, coyote, rabbit]
 //=======
 //Zab
 
@@ -83,7 +81,13 @@ const RedPanda = {
     animalSound: "Huff"
 }
 
-const animals = [duck, coyote, sheep, monkey, red panda]
+// Logan
+const pig = {
+    animalName: "Pig",
+    animalSound: "Oink"
+}
+
+const animals = [duck, dog, coyote, rabbit, sheep, monkey, RedPanda, pig]
 
 
 
