@@ -5,7 +5,7 @@ Objectives: Practice using objects, git & GitHub.
 
 Contributors: 
 
-Prof. Wm. Genereux
+Prof. Wm. Genereux, Trae Toelle
 
 In this exercise, we will use JavaScript to create the song
 lyrics to "Old MacDonald. Each person will create a JavaScript
