@@ -65,6 +65,14 @@ const coyote = {
     animalSound: "howl"
 }
 
+
+const rabbit = {
+    animalName: "rabbit",
+    animalSound: "silence"
+}
+
+const animals = [duck, coyote, rabbit]
+=======
 //Zab
 
 const RedPanda = {
@@ -73,6 +81,7 @@ const RedPanda = {
 }
 
 const animals = [duck, coyote, sheep, monkey, red panda]
+
 
 
 
