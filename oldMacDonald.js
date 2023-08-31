@@ -11,7 +11,7 @@ Contributors: Annie Aeschliman
 
 
 Prof. Wm. Genereux
-
+Zab
 In this exercise, we will use JavaScript to create the song
 lyrics to "Old MacDonald. Each person will create a JavaScript
 object with two key/value pairs using "animalName" and "animalSound".
@@ -65,8 +65,15 @@ const coyote = {
     animalSound: "howl"
 }
 
+//Zab
 
-const animals = [duck, coyote, sheep, Monkey]
+const RedPanda = {
+    animalName: "Red Panda",
+    animalSound: "Huff"
+}
+
+const animals = [duck, coyote, sheep, monkey, red panda]
+
 
 
 // put the console.log output program below here
