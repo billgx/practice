@@ -33,9 +33,15 @@ const duck = {
 // Everyone add your animal object with its 
 // animalName & animalSound below your name:
 
+//Trae
+
+const coyote = {
+    animalName: "coyote",
+    animalSound: "howl"
+}
 
 
-const animals = [duck]
+const animals = [duck, coyote]
 
 // put the console.log output program below here
 
