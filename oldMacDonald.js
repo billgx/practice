@@ -4,7 +4,7 @@ Date: Aug. 30, 2023
 Objectives: Practice using objects, git & GitHub.
 
 Contributors: 
-
+Gabriel Guillen, 
 Prof. Wm. Genereux
 
 In this exercise, we will use JavaScript to create the song
