@@ -4,7 +4,7 @@ Date: Aug. 30, 2023
 Objectives: Practice using objects, git & GitHub.
 
 Contributors: 
-
+Hunter Taylor
 Prof. Wm. Genereux
 
 In this exercise, we will use JavaScript to create the song
@@ -30,12 +30,17 @@ const duck = {
     animalSound: "quack!"
 }
 
+const goat = {
+    animalName: "donkey",
+    animalSound: "EEEEWAAAAA!"
+}
+
 // Everyone add your animal object with its 
 // animalName & animalSound below your name:
 
 
 
-const animals = [duck]
+const animals = [duck, donkey]
 
 // put the console.log output program below here
 
