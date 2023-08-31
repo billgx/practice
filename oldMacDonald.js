@@ -3,7 +3,7 @@ Title: The Old MacDonald Song
 Date: Aug. 30, 2023
 Objectives: Practice using objects, git & GitHub.
 
-Contributors: 
+Contributors: Annie Aeschliman
 
 Prof. Wm. Genereux
 Zab
@@ -29,9 +29,19 @@ const duck = {
     animalName: "duck",
     animalSound: "quack!"
 }
-
+//Diego 
+const monkey = {
+    animalName: "Monkey",
+    animalSound: "ooga booga"
+}
 // Everyone add your animal object with its 
 // animalName & animalSound below your name:
+
+//Annie
+const sheep = {
+    animalName: "sheep",
+    animalSound: "baa!"
+}
 
 //Trae
 
@@ -46,7 +56,10 @@ const RedPanda = {
     animalName: "Red Panda",
     animalSound: "Huff"
 }
-const animals = [duck, coyote, red panda]
+
+const animals = [duck, coyote, sheep, monkey, red panda]
+
+
 
 // put the console.log output program below here
 
