@@ -54,7 +54,7 @@ const dog = {
 }
 
 const animals = [duck, dog]
-=======
+
 //Annie
 const sheep = {
     animalName: "sheep",
@@ -75,7 +75,7 @@ const rabbit = {
 }
 
 const animals = [duck, coyote, rabbit]
-=======
+//=======
 //Zab
 
 const RedPanda = {
