@@ -29,13 +29,17 @@ const duck = {
     animalName: "duck",
     animalSound: "quack!"
 }
-
+//Diego 
+const monkey = {
+    animalName: "Monkey",
+    animalSound: "ooga booga"
+}
 // Everyone add your animal object with its 
 // animalName & animalSound below your name:
 
 
 
-const animals = [duck]
+const animals = [duck, Monkey]
 
 // put the console.log output program below here
 
