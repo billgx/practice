@@ -4,6 +4,7 @@ Date: Aug. 30, 2023
 Objectives: Practice using objects, git & GitHub.
 
 Contributors: 
+Hunter Taylor,
 
 Prof. Wm. Genereux
 
@@ -28,6 +29,11 @@ https://github.com/billgx/practice.git
 const duck = {
     animalName: "duck",
     animalSound: "quack!"
+}
+
+const goat = {
+    animalName: "goat",
+    animalSound: "Bwaaaa!"
 }
 
 // Everyone add your animal object with its 
