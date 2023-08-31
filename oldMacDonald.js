@@ -4,7 +4,7 @@ Date: Aug. 30, 2023
 Objectives: Practice using objects, git & GitHub.
 
 Contributors: 
-Genessis Perez-Sorto
+Genessis PerezSorto
 
 Prof. Wm. Genereux
 
