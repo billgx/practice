@@ -3,10 +3,15 @@ Title: The Old MacDonald Song
 Date: Aug. 30, 2023
 Objectives: Practice using objects, git & GitHub.
 
+
 Contributors: 
+Genessis Perez-Sorto
+=======
+Contributors: Annie Aeschliman
+
 
 Prof. Wm. Genereux
-
+Zab
 In this exercise, we will use JavaScript to create the song
 lyrics to "Old MacDonald. Each person will create a JavaScript
 object with two key/value pairs using "animalName" and "animalSound".
@@ -29,9 +34,29 @@ const duck = {
     animalName: "duck",
     animalSound: "quack!"
 }
-
+//Diego 
+const monkey = {
+    animalName: "Monkey",
+    animalSound: "ooga booga"
+}
 // Everyone add your animal object with its 
 // animalName & animalSound below your name:
+
+
+// Genessis
+
+const dog = {
+    animalName: "dog",
+    animalSound: "woof woof"
+}
+
+const animals = [duck, dog]
+=======
+//Annie
+const sheep = {
+    animalName: "sheep",
+    animalSound: "baa!"
+}
 
 //Trae
 
@@ -40,12 +65,25 @@ const coyote = {
     animalSound: "howl"
 }
 
+
 const rabbit = {
     animalName: "rabbit",
     animalSound: "silence"
 }
 
 const animals = [duck, coyote, rabbit]
+=======
+//Zab
+
+const RedPanda = {
+    animalName: "Red Panda",
+    animalSound: "Huff"
+}
+
+const animals = [duck, coyote, sheep, monkey, red panda]
+
+
+
 
 // put the console.log output program below here
 
