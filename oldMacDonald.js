@@ -5,6 +5,9 @@ Objectives: Practice using objects, git & GitHub.
 
 
 Contributors: 
+
+Prof. Wm. Genereux
+=======
 Genessis Perez-Sorto
 =======
 Contributors: Annie Aeschliman
