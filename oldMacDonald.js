@@ -40,8 +40,12 @@ const coyote = {
     animalSound: "howl"
 }
 
+const rabbit = {
+    animalName: "rabbit",
+    animalSound: "silence"
+}
 
-const animals = [duck, coyote]
+const animals = [duck, coyote, rabbit]
 
 // put the console.log output program below here
 
