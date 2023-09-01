@@ -10,7 +10,7 @@ Prof. Wm. Genereux
 =======
 Genessis Perez-Sorto
 =======
-Contributors: Annie Aeschliman, Logan Bunch
+Contributors: Annie Aeschliman, Logan Bunch, Colton Racette
 
 
 Prof. Wm. Genereux
@@ -87,7 +87,13 @@ const pig = {
     animalSound: "Oink"
 }
 
-const animals = [duck, dog, coyote, rabbit, sheep, monkey, RedPanda, pig]
+// Colton
+const donkey = {
+    animalName: "Donkey",
+    animalSound: "Hee-Haw"
+}
+
+const animals = [duck, dog, coyote, rabbit, sheep, monkey, RedPanda, pig, donkey]
 
 
 
