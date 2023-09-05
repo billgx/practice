@@ -123,6 +123,7 @@ function song () {
     console.log ("and on that farm he had a " + element.animalName)
     console.log ("with a " + element.animalSound + " " + element.animalSound + " here")
     console.log ("and a " + element.animalSound +  " " + element.animalSound + " there")
+    console.log ("everywhere a " + element.animalSound + " " + element.animalSound)
     });
 }
 
