@@ -37,13 +37,15 @@ const duck = {
     animalName: "duck",
     animalSound: "quack!"
 }
-//Diego 
+
+// Everyone add your animal object with its 
+// animalName & animalSound below your name:
+
+// Diego 
 const monkey = {
     animalName: "Monkey",
     animalSound: "ooga booga"
 }
-// Everyone add your animal object with its 
-// animalName & animalSound below your name:
 
 
 // Genessis
@@ -54,26 +56,26 @@ const dog = {
 }
 
 
-//Annie
+// Annie
 const sheep = {
     animalName: "sheep",
     animalSound: "baa!"
 }
 
-//Trae
+// Trae
 
 const coyote = {
     animalName: "coyote",
     animalSound: "howl"
 }
 
+// Gabriel
 
 const rabbit = {
     animalName: "rabbit",
     animalSound: "silence"
 }
 
-//=======
 //Zab
 
 const RedPanda = {
@@ -87,14 +89,21 @@ const pig = {
     animalSound: "Oink"
 }
 
+
 // Colton
 const donkey = {
     animalName: "Donkey",
     animalSound: "Hee-Haw"
 }
 
-const animals = [duck, dog, coyote, rabbit, sheep, monkey, RedPanda, pig, donkey]
+// Teray
 
+const elephant = {
+    animalName: "Elephant",
+    animalSound: "Trumpet"
+}
+
+const animals = [duck, dog, coyote, rabbit, sheep, monkey, RedPanda, pig, elephant, donkey]
 
 
 
