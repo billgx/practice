@@ -8,7 +8,7 @@ Contributors:
 
 Prof. Wm. Genereux
 =======
-Contributors: Annie Aeschliman, Logan Bunch, Colton Racette, Genessis Perez-Sorto, Trae Toelle
+Contributors: Annie Aeschliman, Logan Bunch, Dylan Hoeffner, Colton Racette, Genessis Perez-Sorto, Trae Toelle
 
 
 In this exercise, we will use JavaScript to create the song
@@ -105,7 +105,7 @@ const goose = {
     animalSound: "HONK!"
 }
 
-const animals = [duck, dog, coyote, rabbit, sheep, monkey, redPanda, pig, elephant, donkey, goose]
+const animals = [duck, monkey, dog, sheep, coyote, rabbit, redPanda, pig, donkey, donkey, elephant, goose]
 
 
 // put the console.log output program below here
