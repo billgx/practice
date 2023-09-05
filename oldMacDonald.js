@@ -8,13 +8,9 @@ Contributors:
 
 Prof. Wm. Genereux
 =======
-Genessis Perez-Sorto
-=======
-Contributors: Annie Aeschliman, Logan Bunch, Colton Racette
+Contributors: Annie Aeschliman, Logan Bunch, Colton Racette, Genessis Perez-Sorto, Trae Toelle
 
 
-Prof. Wm. Genereux
-Zab
 In this exercise, we will use JavaScript to create the song
 lyrics to "Old MacDonald. Each person will create a JavaScript
 object with two key/value pairs using "animalName" and "animalSound".
@@ -47,12 +43,11 @@ const monkey = {
     animalSound: "ooga booga"
 }
 
-
 // Genessis
 
 const dog = {
     animalName: "dog",
-    animalSound: "woof woof"
+    animalSound: "woof"
 }
 
 
@@ -78,7 +73,7 @@ const rabbit = {
 
 //Zab
 
-const RedPanda = {
+const redPanda = {
     animalName: "Red Panda",
     animalSound: "Huff"
 }
@@ -103,8 +98,14 @@ const elephant = {
     animalSound: "Trumpet"
 }
 
-const animals = [duck, dog, coyote, rabbit, sheep, monkey, RedPanda, pig, elephant, donkey]
+//Dylan
 
+const goose = {
+    animalName: "Goose",
+    animalSound: "HONK!"
+}
+
+const animals = [duck, dog, coyote, rabbit, sheep, monkey, redPanda, pig, elephant, donkey, goose]
 
 
 // put the console.log output program below here
@@ -115,11 +116,14 @@ console.log ("Old MacDonald had a farm");
 console.log (eio + "\n");
 
 function song () {
-animals.forEach(element => {
+    
+    animals.forEach(element => {
     console.log ("Old MacDonald had a farm");
     console.log (eio + "\n");
-  console.log(element.animalName + " goes " + element.animalSound);
-});
+    console.log ("and on that farm he had a " + element.animalName)
+    console.log ("with a " + element.animalSound + " " + element.animalSound + " here")
+    console.log ("and a " + element.animalSound +  " " + element.animalSound + " there")
+    });
 }
 
 song();
