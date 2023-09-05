@@ -87,7 +87,14 @@ const pig = {
     animalSound: "Oink"
 }
 
-const animals = [duck, dog, coyote, rabbit, sheep, monkey, RedPanda, pig]
+//Teray
+
+const elephant = {
+    animalName: "Elephant",
+    animalSound: "Trumpet"
+}
+
+const animals = [duck, dog, coyote, rabbit, sheep, monkey, RedPanda, pig, elephant]
 
 
 
