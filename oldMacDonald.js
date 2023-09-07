@@ -8,7 +8,7 @@ Contributors:
 
 Prof. Wm. Genereux
 =======
-Contributors: Annie Aeschliman, Logan Bunch, Dylan Hoeffner, Colton Racette, Genessis Perez-Sorto, Trae Toelle
+Contributors: Annie Aeschliman, Logan Bunch, Dylan Hoeffner, Colton Racette, Genessis Perez-Sorto, Trae Toelle, David Blake
 
 
 In this exercise, we will use JavaScript to create the song
@@ -105,7 +105,14 @@ const goose = {
     animalSound: "HONK!"
 }
 
-const animals = [duck, monkey, dog, sheep, coyote, rabbit, redPanda, pig, donkey, donkey, elephant, goose]
+//David
+
+const bat = {
+    animalName: "Bat",
+    animalSound: "Screech"
+}
+
+const animals = [duck, monkey, dog, sheep, coyote, rabbit, redPanda, pig, donkey, donkey, elephant, goose, bat]
 
 
 // put the console.log output program below here
